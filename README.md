@@ -29,7 +29,7 @@ A basic calculator that performs simple arithmetic operations using JavaScript. 
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: JavaScript Essentials
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/calculator-app]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/calculator-app/]_
 
 ---
 
@@ -38,7 +38,10 @@ A login form UI created using HTML and styled with CSS. Includes basic form stru
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: Forms & JavaScript Input Handling
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/login-in-form-app]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/login-in-form-app/]_
+- **Demo Credentials**:
+  - **Username**: `Bond`
+  - **Password**: `007`
 
 ---
 
