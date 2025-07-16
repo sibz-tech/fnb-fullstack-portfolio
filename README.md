@@ -11,7 +11,7 @@ A simple static webpage introducing a fictional superhero using HTML and basic s
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: Web Development – Module 1
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/superhero-app]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/superhero-app/]_
 
 ---
 
