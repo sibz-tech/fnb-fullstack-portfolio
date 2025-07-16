@@ -11,7 +11,7 @@ A simple static webpage introducing a fictional superhero using HTML and basic s
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: Web Development – Module 1
-- **Link**: _[To be added once hosted on GitHub Pages]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
 
 ---
 
@@ -20,7 +20,7 @@ A multi-section informational website about a fictional zoo, incorporating image
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: HTML Structures & Elements
-- **Link**: _[To be added once hosted on GitHub Pages]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
 
 ---
 
@@ -29,7 +29,7 @@ A basic calculator that performs simple arithmetic operations using JavaScript. 
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: JavaScript Essentials
-- **Link**: _[To be added once hosted on GitHub Pages]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
 
 ---
 
@@ -38,7 +38,7 @@ A login form UI created using HTML and styled with CSS. Includes basic form stru
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: Forms & JavaScript Input Handling
-- **Link**: _[To be added once hosted on GitHub Pages]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
 
 ---
 
