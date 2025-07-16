@@ -20,7 +20,7 @@ A multi-section informational website about a fictional zoo, incorporating image
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: HTML Structures & Elements
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/pinecityzoo-app]_
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/pinecityzoo-app/]_
 
 ---
 
