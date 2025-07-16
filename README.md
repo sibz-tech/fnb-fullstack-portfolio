@@ -11,7 +11,7 @@ A simple static webpage introducing a fictional superhero using HTML and basic s
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: Web Development – Module 1
-- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/superhero-app]_
 
 ---
 
@@ -20,7 +20,7 @@ A multi-section informational website about a fictional zoo, incorporating image
 
 - **Tech Used**: HTML5, CSS3
 - **Course Module**: HTML Structures & Elements
-- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/pinecityzoo-app]_
 
 ---
 
@@ -29,7 +29,7 @@ A basic calculator that performs simple arithmetic operations using JavaScript. 
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: JavaScript Essentials
-- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/calculator-app]_
 
 ---
 
@@ -38,7 +38,7 @@ A login form UI created using HTML and styled with CSS. Includes basic form stru
 
 - **Tech Used**: HTML, CSS, JavaScript
 - **Course Module**: Forms & JavaScript Input Handling
-- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/dab5b2a227e95ad50a5de159aa025b7bc4d494fc/login-in-form-app]_
 
 ---
 
