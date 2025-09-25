@@ -45,6 +45,21 @@ A login form UI created using HTML and styled with CSS. Includes basic form stru
 
 ---
 
+### 5. 📒 Contact Book App
+A simple contact management web app that allows users to add, edit, and manage contact information. This project demonstrates working with multiple HTML pages, form handling, and basic JavaScript configuration.
+
+- **Tech Used**: HTML, CSS, JavaScript  
+- **Course Module**: JavaScript DOM & Web Apps  
+- **Files Included**:  
+  - `index.html` — Main contact list page  
+  - `add-contact.html` — Add a new contact  
+  - `edit-contact.html` — Edit existing contacts  
+  - `config.js` — Configuration & API setup  
+  - `enter-api-key.html` — Input API key for secure usage  
+- **Link**: _[https://sibz-tech.github.io/fnb-fullstack-portfolio/contact-book-app/]_
+
+---
+
 ## 🧱 Coming Soon
 
 This portfolio will be updated with additional projects as I progress through the Full Stack course, including responsive design, back-end integration, and advanced JavaScript apps.
