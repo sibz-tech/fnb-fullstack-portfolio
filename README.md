@@ -74,6 +74,82 @@ A collection of beginner-friendly Python exercises and mini-apps developed while
   - Functions & modular code  
 
 ---
+
+🏁 Final Review: FNB App Academy Journey
+
+Over the course of 9–10 weeks, I completed the Full Stack Development training with FNB App Academy in association with IT Varsity. The journey took me from beginner-level app development to intermediate and advanced concepts, culminating in passing the final assessment and earning a completion certificate.
+
+Beginner Level
+
+About this Level:
+
+Introduction to the world of App Development.
+
+Learned to build apps using HTML and style them using CSS.
+
+By the end of this level, I completed 2 fully functional apps from the ground up.
+
+Key Skills & Lessons Learned:
+
+App Strategies
+
+GitHub and Collaboration
+
+Software Development Life Cycle (SDLC)
+
+Principles of UX Design
+
+Intermediate Level
+
+About this Level:
+
+Introduced JavaScript to enhance interactivity and functionality.
+
+Built 2 complete, functional apps using JavaScript, focusing on real-world application.
+
+Key Skills & Lessons Learned:
+
+Design Thinking
+
+APIs, Data Input, and Processing
+
+User-Centric App Development
+
+Data Management and Analysis
+
+Business Development
+
+Advanced Level
+
+About this Level:
+
+Began exploring back-end development with Python.
+
+Learned to connect apps to APIs and started building my own backend functionality.
+
+Key Skills & Lessons Learned:
+
+Backend Development
+
+AI in Development
+
+Business Funding
+
+Marketing your App
+
+Overall Reflections & Achievements
+
+Completed all assessments and passed the final test.
+
+Gained practical experience building apps across multiple languages and frameworks.
+
+Learned the full app development lifecycle, from concept and design to deployment.
+
+Received the FNB App Academy Completion Certificate.
+
+Developed a solid foundation for further exploration in Full Stack and Python development.
+
+---
 ## 🧱 Coming Soon
 
 This portfolio will be updated with additional projects as I progress through the Full Stack course, including responsive design, back-end integration, and advanced JavaScript apps.
