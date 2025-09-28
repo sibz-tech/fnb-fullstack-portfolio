@@ -72,7 +72,7 @@ A collection of beginner-friendly Python exercises and mini-apps developed while
   - Exception handling  
   - Data structures (lists, dictionaries)  
   - Functions & modular code
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Python-Teachings]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/python-teachings]_
 
 ---
 
@@ -81,7 +81,7 @@ Projects created while practicing JavaScript fundamentals, DOM manipulation, and
 
 - **Tech Used**: HTML, CSS, JavaScript  
 - **Course Module**: JavaScript Essentials  
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Learning-Java-Script]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/learning-java-script]_
 
 ---
 
@@ -90,7 +90,7 @@ Work completed while learning basic web development, including CSS styling, HTML
 
 - **Tech Used**: HTML, CSS  
 - **Course Module**: Beginner Web Development  
-- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Lesson-CSS-HTML-Hyperlinks]_
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/lesson-css-html-hyperlinks]_
 
 ---
 
