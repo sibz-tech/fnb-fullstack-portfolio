@@ -60,6 +60,20 @@ A simple contact management web app that allows users to add, edit, and manage c
 
 ---
 
+### 6. 🐍 Python Basics Projects
+A collection of beginner-friendly Python exercises and mini-apps developed while learning the fundamentals of Python programming. This section demonstrates exception handling, working with data structures, and creating reusable functions and modules.
+
+- **Tech Used**: Python 3
+- **Course Module**: Python Essentials
+- **Projects Included**:
+  - **Rectangle Calculator** — Computes the area and perimeter of a rectangle using user input.
+  - **Shopping Cart App** — Lets users input a food list with prices and calculates the total cost.
+- **Concepts Practiced**:
+  - Exception handling  
+  - Data structures (lists, dictionaries)  
+  - Functions & modular code  
+
+---
 ## 🧱 Coming Soon
 
 This portfolio will be updated with additional projects as I progress through the Full Stack course, including responsive design, back-end integration, and advanced JavaScript apps.
