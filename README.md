@@ -61,7 +61,7 @@ A simple contact management web app that allows users to add, edit, and manage c
 ---
 
 ### 6. 🐍 Python Basics Projects
-A collection of beginner-friendly Python exercises and mini-apps developed while learning the fundamentals of Python programming. This section demonstrates exception handling, working with data structures, and creating reusable functions and modules.
+A collection of beginner-friendly Python exercises and mini-apps developed while learning the fundamentals of Python programming. These include, Python basics via VS Code and terminal. This section demonstrates exception handling, working with data structures, and creating reusable functions and modules. 
 
 - **Tech Used**: Python 3
 - **Course Module**: Python Essentials
@@ -71,12 +71,82 @@ A collection of beginner-friendly Python exercises and mini-apps developed while
 - **Concepts Practiced**:
   - Exception handling  
   - Data structures (lists, dictionaries)  
-  - Functions & modular code  
+  - Functions & modular code
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Python-Teachings]_
 
 ---
-## 🧱 Coming Soon
 
-This portfolio will be updated with additional projects as I progress through the Full Stack course, including responsive design, back-end integration, and advanced JavaScript apps.
+### 7. 💻 Learning JavaScript
+Projects created while practicing JavaScript fundamentals, DOM manipulation, and basic interactivity. Apps were developed using VS Code terminal exercises.
+
+- **Tech Used**: HTML, CSS, JavaScript  
+- **Course Module**: JavaScript Essentials  
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Learning-Java-Script]_
+
+---
+
+### 8. 🌐 Lesson – CSS, HTML, Hyperlinks
+Work completed while learning basic web development, including CSS styling, HTML structure, and hyperlink navigation. These exercises helped reinforce beginner front-end skills.
+
+- **Tech Used**: HTML, CSS  
+- **Course Module**: Beginner Web Development  
+- **Link**: _[https://github.com/sibz-tech/fnb-fullstack-portfolio/tree/main/Lesson-CSS-HTML-Hyperlinks]_
+
+---
+
+## 🏁 Final Review: FNB App Academy Journey
+
+Over the course of **9–10 weeks**, I completed the **Full Stack Development training** with FNB App Academy in association with IT Varsity. This journey took me from beginner-level app development to intermediate and advanced concepts, culminating in passing the final assessment and earning a **completion certificate**.
+
+---
+
+### **Beginner Level**
+**About this Level:**  
+- Introduction to the world of App Development  
+- Learned to build apps using **HTML** and style them using **CSS**  
+- Built **2 fully functional apps** from scratch  
+
+**Key Skills & Lessons Learned:**  
+- App Strategies  
+- GitHub and Collaboration  
+- Software Development Life Cycle (**SDLC**)  
+- Principles of UX Design  
+
+---
+
+### **Intermediate Level**
+**About this Level:**  
+- Introduced **JavaScript** to enhance interactivity and functionality  
+- Built **2 complete, functional apps** using JavaScript  
+
+**Key Skills & Lessons Learned:**  
+- Design Thinking  
+- APIs, Data Input, and Processing  
+- User-Centric App Development  
+- Data Management and Analysis  
+- Business Development  
+
+---
+
+### **Advanced Level**
+**About this Level:**  
+- Explored **back-end development** with Python  
+- Learned to connect apps to prebuilt APIs and began building custom backend functionality  
+
+**Key Skills & Lessons Learned:**  
+- Backend Development  
+- AI in Development  
+- Business Funding  
+- Marketing your App  
+
+---
+
+### **Overall Reflections & Achievements**
+- Completed all assessments and **passed the final test**  
+- Gained practical experience building apps across **HTML, CSS, JavaScript, and Python**  
+- Learned the full **app development lifecycle**, from concept and design to deployment  
+- Received the **FNB App Academy Completion Certificate**  
+- Developed a solid foundation for further exploration in **Full Stack Development**  
 
 ---
 
